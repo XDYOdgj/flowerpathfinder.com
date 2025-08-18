@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://flowerpathfinder.com/sitemap.xml
